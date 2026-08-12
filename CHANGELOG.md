@@ -378,3 +378,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [94] 2026-08-12 19:42:33
 - fix: ensure cart persists correctly after browser refresh
 
+
+## [95] 2026-08-12 19:42:40
+- docs: add troubleshooting section for common setup errors
+

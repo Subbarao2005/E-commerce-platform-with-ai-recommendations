@@ -230,3 +230,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [57] 2026-08-12 19:40:29
 - feat: add 'New Arrivals' section to the Home page
 
+
+## [58] 2026-08-12 19:40:32
+- perf: defer non-critical JavaScript loading
+

@@ -162,3 +162,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [40] 2026-08-12 19:39:29
 - style: update footer links color for better contrast
 
+
+## [41] 2026-08-12 19:39:32
+- refactor: break down large App.jsx into smaller sub-components
+

@@ -238,3 +238,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [59] 2026-08-12 19:40:36
 - style: polish mobile navigation drawer transitions
 
+
+## [60] 2026-08-12 19:40:40
+- test: add tests for order success confirmation page
+

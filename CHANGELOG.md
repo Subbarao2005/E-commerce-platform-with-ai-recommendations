@@ -206,3 +206,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [51] 2026-08-12 19:40:05
 - feat: enable sorting products by price low to high
 
+
+## [52] 2026-08-12 19:40:08
+- refactor: consolidate all API error handling into Axios interceptors
+

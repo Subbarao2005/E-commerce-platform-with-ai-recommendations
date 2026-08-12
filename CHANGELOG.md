@@ -58,3 +58,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [14] 2026-08-12 19:38:06
 - feat: display stock availability badge on product cards
 
+
+## [15] 2026-08-12 19:38:09
+- test: add integration tests for checkout order creation
+

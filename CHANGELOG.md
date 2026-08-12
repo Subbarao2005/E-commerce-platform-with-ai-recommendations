@@ -358,3 +358,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [89] 2026-08-12 19:42:18
 - docs: add inline Swagger documentation for search endpoints
 
+
+## [90] 2026-08-12 19:42:21
+- feat: add trending products section based on view count
+

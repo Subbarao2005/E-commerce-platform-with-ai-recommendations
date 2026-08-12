@@ -178,3 +178,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [44] 2026-08-12 19:39:42
 - feat: add product category sidebar filter on Shop page
 
+
+## [45] 2026-08-12 19:39:45
+- fix: resolve flickering on page transition animations
+

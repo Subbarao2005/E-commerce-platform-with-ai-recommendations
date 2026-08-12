@@ -66,3 +66,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [16] 2026-08-12 19:38:13
 - docs: add setup guide for Weaviate vector database
 
+
+## [17] 2026-08-12 19:38:16
+- perf: memoize ProductCard component to avoid re-renders
+

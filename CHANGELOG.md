@@ -274,3 +274,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [68] 2026-08-12 19:41:10
 - docs: add FAQ section to the support documentation
 
+
+## [69] 2026-08-12 19:41:13
+- perf: implement virtual scrolling for large product lists
+

@@ -186,3 +186,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [46] 2026-08-12 19:39:49
 - style: increase base font size for better readability
 
+
+## [47] 2026-08-12 19:39:52
+- perf: bundle splitting for faster frontend initial load
+

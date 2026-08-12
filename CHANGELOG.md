@@ -402,3 +402,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [100] 2026-08-12 19:43:01
 - fix: correct order total when multiple quantities selected
 
+
+## [101] 2026-08-12 19:43:03
+- feat: add email notification on successful order placement
+

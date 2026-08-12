@@ -210,3 +210,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [52] 2026-08-12 19:40:08
 - refactor: consolidate all API error handling into Axios interceptors
 
+
+## [53] 2026-08-12 19:40:15
+- style: add dark overlay to hero banner for text readability
+

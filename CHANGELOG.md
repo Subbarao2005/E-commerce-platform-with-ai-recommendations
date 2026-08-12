@@ -158,3 +158,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [39] 2026-08-12 19:39:25
 - fix: sanitize user input before storing in MongoDB
 
+
+## [40] 2026-08-12 19:39:29
+- style: update footer links color for better contrast
+

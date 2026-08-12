@@ -985,9 +985,9 @@ vercel --prod
 ## Support and Contact
 
 For issues, questions, or contributions:
-- **GitHub Issues**: https://github.com/hoangsonww/MERN-Stack-Ecommerce-App/issues
-- **Email**: hoangson091104@gmail.com
-- **Author**: Son Nguyen (@hoangsonww)
+- **GitHub Issues**: https://github.com/subbarao2005/MERN-Stack-Ecommerce-App/issues
+- **Email**: annamvenkatasubbarao2005@gmail.com
+- **Author**: Venkatasubbarao (@subbarao2005)
 
 ---
 

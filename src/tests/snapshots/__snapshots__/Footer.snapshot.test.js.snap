@@ -30,7 +30,7 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
             <a
               aria-label="GitHub"
               class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-18i5sz4-MuiButtonBase-root-MuiIconButton-root"
-              href="https://github.com/hoangsonww"
+              href="https://github.com/subbarao2005"
               rel="noopener"
               tabindex="0"
               target="_blank"
@@ -99,7 +99,7 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
             <a
               aria-label="Email"
               class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-18i5sz4-MuiButtonBase-root-MuiIconButton-root"
-              href="mailto:hoangson091104@gmail.com"
+              href="mailto:annamvenkatasubbarao2005@gmail.com"
               rel="noopener"
               tabindex="0"
               target="_blank"

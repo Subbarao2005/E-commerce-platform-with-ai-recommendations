@@ -1,5 +1,5 @@
 {
-  "name": "@hoangsonww/fusion-electronics-backend",
+  "name": "@subbarao2005/fusion-electronics-backend",
   "displayName": "Fusion Electronics Backend",
   "version": "1.1.1",
   "description": "A backend server for Fusion Electronics - a MERN stack e-commerce website",
@@ -27,14 +27,14 @@
     "stripe",
     "ecommerce"
   ],
-  "author": "Son Nguyen",
+  "author": "Venkatasubbarao",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git"
+    "url": "git+https://github.com/subbarao2005/MERN-Stack-Ecommerce-App.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangsonww/MERN-Stack-Ecommerce-App/issues"
+    "url": "https://github.com/subbarao2005/MERN-Stack-Ecommerce-App/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

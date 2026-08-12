@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-GITHUB_USER="hoangsonww"
+GITHUB_USER="subbarao2005"
 IMAGE_NAME="fusion-electronics-backend"
 VERSION="1.1.0"
 IMAGE_REF="ghcr.io/${GITHUB_USER}/${IMAGE_NAME}:${VERSION}"

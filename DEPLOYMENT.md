@@ -139,7 +139,7 @@ graph TB
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git
+git clone https://github.com/subbarao2005/MERN-Stack-Ecommerce-App.git
 cd MERN-Stack-Ecommerce-App
 ```
 

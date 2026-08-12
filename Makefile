@@ -4,11 +4,11 @@
 # Requires:
 #   CR_PAT      GitHub Container Registry token (write:packages)
 #   NPM_TOKEN   GitHub Packages npm token (read/write:packages)
-#   GH_USER     your GitHub username (default: hoangsonww)
+#   GH_USER     your GitHub username (default: subbarao2005)
 # ────────────────────────────────────────────────────────────────────────────────
 
 # User/config
-GH_USER        ?= hoangsonww
+GH_USER        ?= subbarao2005
 BACKEND_DIR    := backend
 
 # derive versions from package.json

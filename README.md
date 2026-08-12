@@ -456,7 +456,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git
+   git clone https://github.com/subbarao2005/MERN-Stack-Ecommerce-App.git
    cd MERN-Stack-Ecommerce-App  # Fix the path if necessary
    ```
 
@@ -730,7 +730,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Fusion Electronics was created with ❤️ by:
 
-- **Venkata Subbarao** - [venkata subbarao](https://github.com/Subbarao2005)
+- **Venkatasubbarao** - [subbarao2005](https://github.com/subbarao2005)
 - **Email:** [annamvenkatasubbarao2005@gmail.com](mailto:annamvenkatasubbarao2005@gmail.com).
 
 ---

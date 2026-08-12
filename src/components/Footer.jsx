@@ -31,10 +31,10 @@ const helpLinks = [
 ];
 
 const socialLinks = [
-  { icon: <GitHubIcon />, label: 'GitHub', href: 'https://github.com/hoangsonww' },
+  { icon: <GitHubIcon />, label: 'GitHub', href: 'https://github.com/subbarao2005' },
   { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/hoangsonw/' },
   { icon: <LanguageIcon />, label: 'Portfolio', href: 'https://sonnguyenhoang.com/' },
-  { icon: <EmailIcon />, label: 'Email', href: 'mailto:hoangson091104@gmail.com' },
+  { icon: <EmailIcon />, label: 'Email', href: 'mailto:annamvenkatasubbarao2005@gmail.com' },
 ];
 
 const policyLinks = [

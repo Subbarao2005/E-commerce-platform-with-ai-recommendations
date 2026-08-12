@@ -12,7 +12,7 @@ const swaggerDefinition = {
     contact: {
       name: 'Fusion E-Commerce Website',
       url: 'https://mern-stack-ecommerce-app-nine.vercel.app',
-      email: 'hoangson091104@gmail.com',
+      email: 'annamvenkatasubbarao2005@gmail.com',
     },
     license: {
       name: 'MIT License',

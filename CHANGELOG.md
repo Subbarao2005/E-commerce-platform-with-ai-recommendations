@@ -322,3 +322,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [80] 2026-08-12 19:41:51
 - style: add tooltip to icon-only buttons for accessibility
 
+
+## [81] 2026-08-12 19:41:54
+- fix: handle network errors with user-friendly toast messages
+

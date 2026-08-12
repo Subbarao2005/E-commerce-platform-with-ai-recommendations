@@ -294,3 +294,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [73] 2026-08-12 19:41:25
 - style: improve color contrast ratio for WCAG AA compliance
 
+
+## [74] 2026-08-12 19:41:28
+- fix: prevent form resubmission on checkout page refresh
+

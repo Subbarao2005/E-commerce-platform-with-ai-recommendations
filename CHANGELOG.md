@@ -398,3 +398,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [99] 2026-08-12 19:42:58
 - refactor: split routes into separate controller files
 
+
+## [100] 2026-08-12 19:43:01
+- fix: correct order total when multiple quantities selected
+

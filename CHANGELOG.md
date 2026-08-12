@@ -34,3 +34,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [8] 2026-08-12 19:37:44
 - feat: add 'Back to Top' scroll button on Shop page
 
+
+## [9] 2026-08-12 19:37:47
+- fix: correct shipping cost calculation on cart total
+

@@ -154,3 +154,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [38] 2026-08-12 19:39:22
 - perf: add Redis caching layer for frequently queried products
 
+
+## [39] 2026-08-12 19:39:25
+- fix: sanitize user input before storing in MongoDB
+

@@ -242,3 +242,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [60] 2026-08-12 19:40:40
 - test: add tests for order success confirmation page
 
+
+## [61] 2026-08-12 19:40:44
+- refactor: use environment variables for all hardcoded URLs
+

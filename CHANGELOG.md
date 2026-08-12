@@ -318,3 +318,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [79] 2026-08-12 19:41:47
 - refactor: standardize HTTP response codes across all routes
 
+
+## [80] 2026-08-12 19:41:51
+- style: add tooltip to icon-only buttons for accessibility
+

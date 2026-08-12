@@ -258,3 +258,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [64] 2026-08-12 19:40:57
 - feat: add wishlist functionality with local storage persistence
 
+
+## [65] 2026-08-12 19:41:00
+- style: apply consistent card shadow depth across all components
+

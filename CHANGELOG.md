@@ -18,3 +18,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [4] 2026-08-12 19:37:31
 - style: improve product card hover animation smoothness
 
+
+## [5] 2026-08-12 19:37:34
+- refactor: extract checkout validation into reusable utility
+

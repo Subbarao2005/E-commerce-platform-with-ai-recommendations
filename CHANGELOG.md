@@ -310,3 +310,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [77] 2026-08-12 19:41:40
 - perf: compress product images on upload with Sharp
 
+
+## [78] 2026-08-12 19:41:44
+- test: add tests for forgot password reset email flow
+

@@ -282,3 +282,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [70] 2026-08-12 19:41:17
 - refactor: migrate legacy class components to functional hooks
 
+
+## [71] 2026-08-12 19:41:20
+- feat: add product share button with social media links
+

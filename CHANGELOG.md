@@ -134,3 +134,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [33] 2026-08-12 19:39:07
 - style: add loading spinner to recommendation section
 
+
+## [34] 2026-08-12 19:39:10
+- fix: resolve CORS issue for production API deployment
+

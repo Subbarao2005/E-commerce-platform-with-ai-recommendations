@@ -26,3 +26,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [6] 2026-08-12 19:37:37
 - perf: lazy load product images to reduce initial load time
 
+
+## [7] 2026-08-12 19:37:41
+- test: add unit tests for NavigationBar component
+

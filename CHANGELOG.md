@@ -254,3 +254,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [63] 2026-08-12 19:40:54
 - fix: resolve race condition in cart update handler
 
+
+## [64] 2026-08-12 19:40:57
+- feat: add wishlist functionality with local storage persistence
+

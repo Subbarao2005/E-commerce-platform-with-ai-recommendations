@@ -198,3 +198,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [49] 2026-08-12 19:39:59
 - docs: add API rate limit documentation to Swagger
 
+
+## [50] 2026-08-12 19:40:02
+- fix: handle empty product list gracefully on Shop page
+

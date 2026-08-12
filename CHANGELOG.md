@@ -102,3 +102,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [25] 2026-08-12 19:38:42
 - style: improve mobile responsiveness of CheckoutForm
 
+
+## [26] 2026-08-12 19:38:45
+- feat: add recently viewed products section on Home page
+

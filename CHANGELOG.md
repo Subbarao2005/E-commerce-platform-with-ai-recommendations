@@ -138,3 +138,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [34] 2026-08-12 19:39:10
 - fix: resolve CORS issue for production API deployment
 
+
+## [35] 2026-08-12 19:39:13
+- test: add tests for user registration and login flows
+

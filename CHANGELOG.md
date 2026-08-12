@@ -222,3 +222,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [55] 2026-08-12 19:40:22
 - docs: update CHANGELOG with recent feature additions
 
+
+## [56] 2026-08-12 19:40:25
+- fix: correct product image alt text for accessibility
+

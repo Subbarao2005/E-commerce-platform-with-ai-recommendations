@@ -150,3 +150,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [37] 2026-08-12 19:39:18
 - feat: implement 'Forgot Password' email reset flow
 
+
+## [38] 2026-08-12 19:39:22
+- perf: add Redis caching layer for frequently queried products
+

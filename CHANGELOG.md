@@ -74,3 +74,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [18] 2026-08-12 19:38:19
 - style: add skeleton loading placeholders for product grid
 
+
+## [19] 2026-08-12 19:38:22
+- fix: correct JWT expiry handling in auth middleware
+

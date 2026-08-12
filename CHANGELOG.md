@@ -386,3 +386,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [96] 2026-08-12 19:42:48
 - feat: display related categories on product detail page
 
+
+## [97] 2026-08-12 19:42:51
+- test: add tests for product recommendation API endpoint
+

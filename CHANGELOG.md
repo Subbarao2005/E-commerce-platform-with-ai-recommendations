@@ -394,3 +394,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [98] 2026-08-12 19:42:54
 - style: add responsive grid breakpoints for tablet view
 
+
+## [99] 2026-08-12 19:42:58
+- refactor: split routes into separate controller files
+

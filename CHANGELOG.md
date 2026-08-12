@@ -110,3 +110,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [27] 2026-08-12 19:38:48
 - perf: index MongoDB category field for faster queries
 
+
+## [28] 2026-08-12 19:38:51
+- fix: correct email validation regex in checkout form
+

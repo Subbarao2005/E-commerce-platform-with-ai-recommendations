@@ -114,3 +114,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [28] 2026-08-12 19:38:51
 - fix: correct email validation regex in checkout form
 
+
+## [29] 2026-08-12 19:38:54
+- docs: document environment variable configuration options
+

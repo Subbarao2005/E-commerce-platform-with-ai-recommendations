@@ -94,3 +94,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [23] 2026-08-12 19:38:35
 - docs: expand README with Docker deployment instructions
 
+
+## [24] 2026-08-12 19:38:38
+- fix: handle Pinecone timeout gracefully with fallback
+

@@ -146,3 +146,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [36] 2026-08-12 19:39:15
 - docs: add contributing guide with PR and issue templates
 
+
+## [37] 2026-08-12 19:39:18
+- feat: implement 'Forgot Password' email reset flow
+

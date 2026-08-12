@@ -174,3 +174,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [43] 2026-08-12 19:39:39
 - docs: document Pinecone sync process in detail
 
+
+## [44] 2026-08-12 19:39:42
+- feat: add product category sidebar filter on Shop page
+

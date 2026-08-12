@@ -202,3 +202,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [50] 2026-08-12 19:40:02
 - fix: handle empty product list gracefully on Shop page
 
+
+## [51] 2026-08-12 19:40:05
+- feat: enable sorting products by price low to high
+

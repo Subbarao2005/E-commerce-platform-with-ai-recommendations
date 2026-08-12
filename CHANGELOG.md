@@ -54,3 +54,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [13] 2026-08-12 19:38:03
 - fix: prevent duplicate cart additions on rapid clicks
 
+
+## [14] 2026-08-12 19:38:06
+- feat: display stock availability badge on product cards
+

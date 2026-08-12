@@ -38,3 +38,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [9] 2026-08-12 19:37:47
 - fix: correct shipping cost calculation on cart total
 
+
+## [10] 2026-08-12 19:37:51
+- docs: add JSDoc comments to apiClient service functions
+

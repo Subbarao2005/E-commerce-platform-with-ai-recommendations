@@ -82,3 +82,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [20] 2026-08-12 19:38:25
 - feat: support product filtering by price range
 
+
+## [21] 2026-08-12 19:38:29
+- refactor: move Mongoose connection logic to dedicated module
+

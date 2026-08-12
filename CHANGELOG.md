@@ -334,3 +334,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [83] 2026-08-12 19:42:00
 - feat: allow users to update their profile information
 
+
+## [84] 2026-08-12 19:42:03
+- test: add integration tests for vector similarity search
+

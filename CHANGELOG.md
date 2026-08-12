@@ -50,3 +50,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [12] 2026-08-12 19:38:00
 - refactor: separate product filter logic into custom hook
 
+
+## [13] 2026-08-12 19:38:03
+- fix: prevent duplicate cart additions on rapid clicks
+

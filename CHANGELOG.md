@@ -250,3 +250,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [62] 2026-08-12 19:40:48
 - docs: add system architecture diagram to README
 
+
+## [63] 2026-08-12 19:40:54
+- fix: resolve race condition in cart update handler
+

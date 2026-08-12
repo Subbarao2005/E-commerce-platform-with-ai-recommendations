@@ -370,3 +370,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [92] 2026-08-12 19:42:27
 - style: improve spacing and padding on About page
 
+
+## [93] 2026-08-12 19:42:30
+- perf: reduce MongoDB query fields with projection
+

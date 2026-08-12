@@ -338,3 +338,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [84] 2026-08-12 19:42:03
 - test: add integration tests for vector similarity search
 
+
+## [85] 2026-08-12 19:42:06
+- perf: add HTTP cache headers to static product assets
+

@@ -366,3 +366,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [91] 2026-08-12 19:42:24
 - test: add unit tests for authentication middleware
 
+
+## [92] 2026-08-12 19:42:27
+- style: improve spacing and padding on About page
+

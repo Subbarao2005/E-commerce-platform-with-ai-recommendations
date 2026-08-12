@@ -234,3 +234,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [58] 2026-08-12 19:40:32
 - perf: defer non-critical JavaScript loading
 
+
+## [59] 2026-08-12 19:40:36
+- style: polish mobile navigation drawer transitions
+

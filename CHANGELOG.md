@@ -374,3 +374,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [93] 2026-08-12 19:42:30
 - perf: reduce MongoDB query fields with projection
 
+
+## [94] 2026-08-12 19:42:33
+- fix: ensure cart persists correctly after browser refresh
+

@@ -142,3 +142,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [35] 2026-08-12 19:39:13
 - test: add tests for user registration and login flows
 
+
+## [36] 2026-08-12 19:39:15
+- docs: add contributing guide with PR and issue templates
+

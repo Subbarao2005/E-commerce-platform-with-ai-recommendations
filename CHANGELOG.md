@@ -14,3 +14,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [3] 2026-08-12 19:37:27
 - docs: update API endpoint documentation for auth routes
 
+
+## [4] 2026-08-12 19:37:31
+- style: improve product card hover animation smoothness
+

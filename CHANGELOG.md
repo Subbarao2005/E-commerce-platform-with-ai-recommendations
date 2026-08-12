@@ -46,3 +46,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [11] 2026-08-12 19:37:55
 - style: unify button border-radius across all pages
 
+
+## [12] 2026-08-12 19:38:00
+- refactor: separate product filter logic into custom hook
+

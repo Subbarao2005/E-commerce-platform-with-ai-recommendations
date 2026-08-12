@@ -290,3 +290,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [72] 2026-08-12 19:41:23
 - test: add tests for search results filtering behavior
 
+
+## [73] 2026-08-12 19:41:25
+- style: improve color contrast ratio for WCAG AA compliance
+

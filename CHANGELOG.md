@@ -330,3 +330,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [82] 2026-08-12 19:41:57
 - docs: expand deployment guide with Vercel configuration steps
 
+
+## [83] 2026-08-12 19:42:00
+- feat: allow users to update their profile information
+

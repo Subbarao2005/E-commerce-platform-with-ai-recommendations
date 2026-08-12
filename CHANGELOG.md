@@ -278,3 +278,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [69] 2026-08-12 19:41:13
 - perf: implement virtual scrolling for large product lists
 
+
+## [70] 2026-08-12 19:41:17
+- refactor: migrate legacy class components to functional hooks
+

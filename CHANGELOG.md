@@ -262,3 +262,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [65] 2026-08-12 19:41:00
 - style: apply consistent card shadow depth across all components
 
+
+## [66] 2026-08-12 19:41:04
+- test: add unit tests for product price formatting utility
+

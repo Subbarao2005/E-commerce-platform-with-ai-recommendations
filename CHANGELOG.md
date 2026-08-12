@@ -194,3 +194,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [48] 2026-08-12 19:39:56
 - test: add tests for cart context state management
 
+
+## [49] 2026-08-12 19:39:59
+- docs: add API rate limit documentation to Swagger
+

@@ -270,3 +270,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [67] 2026-08-12 19:41:07
 - fix: ensure 404 page redirects to home after 5 seconds
 
+
+## [68] 2026-08-12 19:41:10
+- docs: add FAQ section to the support documentation
+

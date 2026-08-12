@@ -266,3 +266,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [66] 2026-08-12 19:41:04
 - test: add unit tests for product price formatting utility
 
+
+## [67] 2026-08-12 19:41:07
+- fix: ensure 404 page redirects to home after 5 seconds
+

@@ -246,3 +246,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [61] 2026-08-12 19:40:44
 - refactor: use environment variables for all hardcoded URLs
 
+
+## [62] 2026-08-12 19:40:48
+- docs: add system architecture diagram to README
+

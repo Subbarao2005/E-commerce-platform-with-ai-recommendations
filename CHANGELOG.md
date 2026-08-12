@@ -302,3 +302,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [75] 2026-08-12 19:41:32
 - docs: document Weaviate sync orchestration workflow
 
+
+## [76] 2026-08-12 19:41:36
+- feat: add coupon code discount field to checkout
+

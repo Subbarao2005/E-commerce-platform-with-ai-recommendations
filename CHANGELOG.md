@@ -62,3 +62,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [15] 2026-08-12 19:38:09
 - test: add integration tests for checkout order creation
 
+
+## [16] 2026-08-12 19:38:13
+- docs: add setup guide for Weaviate vector database
+

@@ -226,3 +226,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [56] 2026-08-12 19:40:25
 - fix: correct product image alt text for accessibility
 
+
+## [57] 2026-08-12 19:40:29
+- feat: add 'New Arrivals' section to the Home page
+

@@ -214,3 +214,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [53] 2026-08-12 19:40:15
 - style: add dark overlay to hero banner for text readability
 
+
+## [54] 2026-08-12 19:40:19
+- test: add end-to-end test for full checkout flow
+

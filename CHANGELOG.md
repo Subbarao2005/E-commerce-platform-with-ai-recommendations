@@ -298,3 +298,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [74] 2026-08-12 19:41:28
 - fix: prevent form resubmission on checkout page refresh
 
+
+## [75] 2026-08-12 19:41:32
+- docs: document Weaviate sync orchestration workflow
+

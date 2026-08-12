@@ -382,3 +382,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [95] 2026-08-12 19:42:40
 - docs: add troubleshooting section for common setup errors
 
+
+## [96] 2026-08-12 19:42:48
+- feat: display related categories on product detail page
+

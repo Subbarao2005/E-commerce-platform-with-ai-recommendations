@@ -342,3 +342,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [85] 2026-08-12 19:42:06
 - perf: add HTTP cache headers to static product assets
 
+
+## [86] 2026-08-12 19:42:09
+- style: use CSS variables for consistent theme color tokens
+

@@ -730,8 +730,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Fusion Electronics was created with ❤️ by:
 
-- **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+- **Venkata Subbarao** - [venkata subbarao](https://github.com/Subbarao2005)
+- **Email:** [annamvenkatasubbarao2005@gmail.com](mailto:annamvenkatasubbarao2005@gmail.com).
 
 ---
 

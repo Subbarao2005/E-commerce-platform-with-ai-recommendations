@@ -118,3 +118,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [29] 2026-08-12 19:38:54
 - docs: document environment variable configuration options
 
+
+## [30] 2026-08-12 19:38:57
+- test: add snapshot tests for Footer component
+

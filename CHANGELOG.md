@@ -182,3 +182,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [45] 2026-08-12 19:39:45
 - fix: resolve flickering on page transition animations
 
+
+## [46] 2026-08-12 19:39:49
+- style: increase base font size for better readability
+

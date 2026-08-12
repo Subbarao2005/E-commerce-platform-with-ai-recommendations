@@ -78,3 +78,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [19] 2026-08-12 19:38:22
 - fix: correct JWT expiry handling in auth middleware
 
+
+## [20] 2026-08-12 19:38:25
+- feat: support product filtering by price range
+

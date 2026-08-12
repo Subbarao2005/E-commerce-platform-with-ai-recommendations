@@ -314,3 +314,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [78] 2026-08-12 19:41:44
 - test: add tests for forgot password reset email flow
 
+
+## [79] 2026-08-12 19:41:47
+- refactor: standardize HTTP response codes across all routes
+

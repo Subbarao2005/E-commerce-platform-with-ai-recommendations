@@ -350,3 +350,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [87] 2026-08-12 19:42:12
 - refactor: extract notification logic from App.jsx to context
 
+
+## [88] 2026-08-12 19:42:15
+- fix: resolve product rating display rounding issue
+

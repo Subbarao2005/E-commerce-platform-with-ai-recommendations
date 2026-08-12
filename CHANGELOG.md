@@ -98,3 +98,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [24] 2026-08-12 19:38:38
 - fix: handle Pinecone timeout gracefully with fallback
 
+
+## [25] 2026-08-12 19:38:42
+- style: improve mobile responsiveness of CheckoutForm
+

@@ -326,3 +326,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [81] 2026-08-12 19:41:54
 - fix: handle network errors with user-friendly toast messages
 
+
+## [82] 2026-08-12 19:41:57
+- docs: expand deployment guide with Vercel configuration steps
+

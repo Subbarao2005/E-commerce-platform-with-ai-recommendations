@@ -126,3 +126,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [31] 2026-08-12 19:39:01
 - refactor: simplify product recommendation ranking logic
 
+
+## [32] 2026-08-12 19:39:04
+- feat: add admin view to list all registered users
+

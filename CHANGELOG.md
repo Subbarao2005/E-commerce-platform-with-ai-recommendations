@@ -42,3 +42,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [10] 2026-08-12 19:37:51
 - docs: add JSDoc comments to apiClient service functions
 
+
+## [11] 2026-08-12 19:37:55
+- style: unify button border-radius across all pages
+

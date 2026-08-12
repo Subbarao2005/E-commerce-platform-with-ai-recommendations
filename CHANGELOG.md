@@ -130,3 +130,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [32] 2026-08-12 19:39:04
 - feat: add admin view to list all registered users
 
+
+## [33] 2026-08-12 19:39:07
+- style: add loading spinner to recommendation section
+

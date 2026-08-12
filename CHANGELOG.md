@@ -354,3 +354,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [88] 2026-08-12 19:42:15
 - fix: resolve product rating display rounding issue
 
+
+## [89] 2026-08-12 19:42:18
+- docs: add inline Swagger documentation for search endpoints
+

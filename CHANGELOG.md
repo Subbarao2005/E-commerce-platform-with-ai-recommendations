@@ -70,3 +70,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [17] 2026-08-12 19:38:16
 - perf: memoize ProductCard component to avoid re-renders
 
+
+## [18] 2026-08-12 19:38:19
+- style: add skeleton loading placeholders for product grid
+

@@ -306,3 +306,7 @@ All notable changes to Fusion Electronics are documented here.
 ## [76] 2026-08-12 19:41:36
 - feat: add coupon code discount field to checkout
 
+
+## [77] 2026-08-12 19:41:40
+- perf: compress product images on upload with Sharp
+
